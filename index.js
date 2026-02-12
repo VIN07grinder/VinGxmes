@@ -240,7 +240,7 @@ server.on("listening", () => {
   console.clear();
   console.log(
     chalk.magenta(
-      `[ 🚀 ] Lunaar V7 is running at http://localhost:${address.port}`
+      `[ 🚀 ] Vin V7 is running at http://localhost:${address.port}`
     )
   );
   console.log();
@@ -248,13 +248,13 @@ server.on("listening", () => {
   console.log();
   console.log(
     chalk.blue(
-      `[ ⭐ ] Please Star on github https://github.com/parcoil/lunaar.org`
+      `[ ⭐ ] Please Star on github`
     )
   );
   console.log();
   console.log(
     chalk.cyan(
-      `[ 💻 ] Be sure to join our Discord for support: https://discord.gg/En5YJYWj3Z`
+      `[ 💻 ] Be sure to join our Discord for support: https://discord.gg/c8BFteGDmn`
     )
   );
 });
