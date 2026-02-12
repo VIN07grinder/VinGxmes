@@ -23,11 +23,11 @@ const greetings = [
   "Freedom",
   "The Best",
   "Welcome to the best",
-  "Vboi's Games",
-  "Vboi's Games",
-  "Vboi's Games",
-  "Vboi's Games",
-  "Vboi's Games"
+  "Vin Gxmes",
+  "Vin Gxmes",
+  "Vin Gxmes",
+  "Vin Gxmes",
+  "Vin Gxmes"
 ];
 function getRandomGreeting() {
   const randomIndex = Math.floor(Math.random() * greetings.length);
